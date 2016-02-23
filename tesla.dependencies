@@ -1,0 +1,17 @@
+[
+  {
+    "repository": "CyanogenMod/android_device_lge_v10-common",
+    "target_path": "device/lge/v10-common",
+    "branch": "cm-13.0"
+  },
+  {
+    "repository": "CyanogenMod/android_kernel_lge_pplus",
+    "target_path": "kernel/lge/pplus",
+    "branch":   "cm-13.0"
+  },
+  {
+    "repository": "CyanogenMod/android_external_mm-dash",
+    "target_path": "external/mm-dash",
+    "branch": "cm-13.0"
+  }
+]
